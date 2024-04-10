@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "thesis-integration-platform", "thesis-integration-platform.csproj", "{B04830CD-D50C-4A97-8405-9296053A55E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04830CD-D50C-4A97-8405-9296053A55E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04830CD-D50C-4A97-8405-9296053A55E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04830CD-D50C-4A97-8405-9296053A55E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04830CD-D50C-4A97-8405-9296053A55E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B590819-00C7-4B71-98B3-66397546A5E3}
+	EndGlobalSection
+EndGlobal
