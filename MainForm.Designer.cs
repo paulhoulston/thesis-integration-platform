@@ -39,6 +39,7 @@ partial class MainForm
         txtOutput.Name = "txtOutput";
         txtOutput.Size = new Size(800, 450);
         txtOutput.TabIndex = 0;
+        txtOutput.Text = "Find the code at https://github.com/paulhoulston/thesis-integration-platform\r\n\r\n";
         // 
         // MainForm
         // 
